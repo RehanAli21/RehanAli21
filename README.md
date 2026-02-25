@@ -1,5 +1,5 @@
 # Hi! 👋🏻 My name is Rehan Shah
-<p><img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@rehanali_24650)
 
 ## Full Stack AI Engineer
 
