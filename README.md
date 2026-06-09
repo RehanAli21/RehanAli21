@@ -11,7 +11,7 @@ My toolkit includes Java, JavaScript, React, Python, Docker, and whatever else t
 I’m the kind of engineer who makes things work first, then makes them fast.  
 When something breaks, I don’t panic — I debug like it’s a puzzle I secretly enjoy solving. 
 
-* 🌍 Proudly coding from Karachi, Pakistan  
+* 🌍 Programming from Karachi, Pakistan  
 * ✉️ Reach me at [rehan.shah70@yahoo.com](mailto:rehan.shah70@yahoo.com)  
 * 🧠 Currently learning Spring Boot & AI Engineering  
 * ⚡ When I’m not debugging, I’m playing chess or racing in NFS Heat  
