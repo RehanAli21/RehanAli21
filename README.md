@@ -2,9 +2,9 @@
 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@rehanali_24650)
 
-## Full Stack AI Engineer (and Bug Exterminator 🐛➡️🪓)
+## Software Engineer
 
-Hi, I’m Rehan — a software engineer who thinks `console.log("Hello World")` should be a love language.  
+Hi, I’m Rehan, software engineer from Pakistan.  
 I build web apps, desktop apps (Electron), and real-time visualizations where milliseconds matter and bugs don’t get a second chance.  
 My toolkit includes Java, JavaScript, React, Python, Docker, and whatever else the compiler demands.  
 
@@ -13,7 +13,7 @@ When something breaks, I don’t panic — I debug like it’s a puzzle I secret
 
 * 🌍 Programming from Karachi, Pakistan  
 * ✉️ Reach me at [rehan.shah70@yahoo.com](mailto:rehan.shah70@yahoo.com)  
-* 🧠 Currently learning Spring Boot & AI Engineering  
+* 🧠 Currently learning RUST, Spring Boot & AI Engineering  
 * ⚡ When I’m not debugging, I’m playing chess or racing in NFS Heat  
 
 ---
