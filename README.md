@@ -22,7 +22,7 @@ When something breaks, I don’t panic — I debug like it’s a puzzle I secret
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanAli21&layout=pie)](https://github.com/RehanAli21/github-readme-stats)
 
-![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanAli21&show_icons=true&theme=radical)
+<!-- ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanAli21&show_icons=true&theme=radical) -->
 
 ---
 
