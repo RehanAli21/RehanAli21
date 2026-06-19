@@ -20,7 +20,7 @@ When something breaks, I don’t panic — I debug like it’s a puzzle I secret
 
 ### My Languages
 
-<img src="https://github.com/RehanAli21" alt="Top Languages" />
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanAli21&show_icons=true&theme=radical)
 
 ---
 
