@@ -18,6 +18,12 @@ When something breaks, I don’t panic — I debug like it’s a puzzle I secret
 
 ---
 
+### My Languages
+
+<img src="https://github.com/RehanAli21" alt="Top Languages" />
+
+---
+
 ### 🛠️ My Skills
 
 <p align="left">
