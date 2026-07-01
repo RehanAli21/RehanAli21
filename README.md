@@ -4,17 +4,27 @@
 
 ## Software Engineer
 
-Hi, I’m Rehan, software engineer from Pakistan.  
-I build web apps, desktop apps (Electron), and real-time visualizations where milliseconds matter and bugs don’t get a second chance.  
-My toolkit includes Java, JavaScript, React, Python, Docker, and whatever else the compiler demands.  
+Helloooo! 👋 I'm Rehan — a Software Engineer based in Pakistan who loves building software.
 
-I’m the kind of engineer who makes things work first, then makes them fast.  
-When something breaks, I don’t panic — I debug like it’s a puzzle I secretly enjoy solving. 
+Right now, I'm building app called Brainclean to fight mobile addiction and learning RUST programming language. 
+
+Previously I built many full stack applications as well as AI agentic systems to automate tasks which company needed, using React.js and Python for building services I learned so many things from building products to deploy them on clouds like azure and GCP using docker. 
+
+My philosophy is simple: learn the foundations, build strong logic, and the code will follow. Lastly do not use AI to write code and use it for assist to decision making.
+
+I graduated with a BS in Computer Science from SZABIST in 2024, and I haven't stopped learning since.
+
+* ✉️ Reach me at
+* [rehan.shah70@yahoo.com](mailto:rehan.shah70@yahoo.com)
+* [ra2445824@gmail.com](mailto:ra2445824@gmail.com)
+* [https://x.com/RehanAS21](https://x.com/RehanAS21)
+* [Linkedin](https://www.linkedin.com/in/rehan-shah-b405b9168/)
+
+GITHUB: https://github.com/RehanAli21
 
 * 🌍 Programming from Karachi, Pakistan  
-* ✉️ Reach me at [rehan.shah70@yahoo.com](mailto:rehan.shah70@yahoo.com)  
 * 🧠 Currently learning RUST, Spring Boot & AI Engineering  
-* ⚡ When I’m not debugging, I’m playing chess or racing in NFS Heat  
+* ⚡ When I’m not programming, I’m playing chess or racing in NFS Heat  
 
 ---
 
