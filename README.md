@@ -20,7 +20,6 @@ I graduated with a BS in Computer Science from SZABIST in 2024, and I haven't st
 * [https://x.com/RehanAS21](https://x.com/RehanAS21)
 * [Linkedin](https://www.linkedin.com/in/rehan-shah-b405b9168/)
 
-GITHUB: https://github.com/RehanAli21
 
 * 🌍 Programming from Karachi, Pakistan  
 * 🧠 Currently learning RUST, Spring Boot & AI Engineering  
