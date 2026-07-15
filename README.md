@@ -29,7 +29,7 @@ I graduated with a BS in Computer Science from SZABIST in 2024, and I haven't st
 
 ### My States
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanAli21&langs_count=15&size_weight=0.5&count_weight=0.5&layout=pie)](https://github.com/RehanAli21/github-readme-stats)
+[![My Top Languages](./profile/top-langs.svg)](https://github.com/RehanAli21)
 
 <!-- ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RehanAli21&show_icons=true&theme=radical) -->
 
