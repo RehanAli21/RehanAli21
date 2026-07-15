@@ -1,0 +1,38 @@
+name: Update README Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows you to trigger this manually
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          # This passes your original options to generate the pie chart
+          options: "username=RehanAli21&langs_count=15&size_weight=0.5&count_weight=0.5&layout=pie"
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update github readme stats" || exit 0
+          git push
