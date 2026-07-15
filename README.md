@@ -38,33 +38,38 @@ I graduated with a BS in Computer Science from SZABIST in 2024, and I haven't st
 ### 🛠️ My Skills
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/typescript-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/javascript-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/java-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/python-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/react-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/nextjs-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/html5-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/css3-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/materialui-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/tailwindcss-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/nodejs-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/postgresql-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/express-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/programming/photoshop-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/intellij-color.svg" width="45px" height="45px"/>
-  <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/ide/vscode-color.svg" width="45px" height="45px"/>
-</p>
+  <img src="https://cdn.simpleicons.org/rust/D34516" alt="Rust Logo" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="45px" height="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45px" height="45px"/>
+</p>  
 
 ---
 
 ### 🌐 Find Me Also Here
 
 <p align="left">
-  <a href="https://www.github.com/rehanali21" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/github.svg" width="45px" height="45px"/>
-  </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rehan-shah-b405b9168" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/linkedin.svg" width="45px" height="45px"/>
+    <img src="https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/linkedin.svg" width="45px" height="45px" alt="LinkedIn Logo"/>
   </a>
+  
+  <!-- X (Twitter) - Dynamically switches Black/White based on theme -->
+  <a href="https://x.com/RehanAS21" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/x/000/fff" width="45px" height="45px" alt="X Logo" />
+  </a>
+</p>
 </p>
