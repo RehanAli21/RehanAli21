@@ -6,7 +6,7 @@
 
 Helloooo! 👋 I'm Rehan — a Software Engineer based in Pakistan who loves building software.
 
-Right now, I'm building app called Brainclean to fight mobile addiction and learning RUST programming language. 
+Right now, I'm building app called Brainclean to fight mobile addiction, making games using UNITY and learning RUST programming language. 
 
 Previously I built many full stack applications as well as AI agentic systems to automate tasks which company needed, using React.js and Python for building services I learned so many things from building products to deploy them on clouds like azure and GCP using docker. 
 
@@ -39,6 +39,7 @@ I graduated with a BS in Computer Science from SZABIST in 2024, and I haven't st
   <img src="https://cdn.simpleicons.org/rust/D34516" alt="Rust Logo" width="50" height="50" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45px" height="45px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px" height="45px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45px" height="45px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45px" height="45px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45px" height="45px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px" height="45px"/>&nbsp;&nbsp;&nbsp;
